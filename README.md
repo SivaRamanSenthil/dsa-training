@@ -1,5 +1,5 @@
 linear search :-
-   
+   ```java
    class Main {
     public static void main(String[] args) {
     int[] arr ={1,2,3,4,5};
@@ -20,6 +20,7 @@ linear search :-
         }
      }
 }
+```
 
 input : 1 2 3 4 5
        target : 3
